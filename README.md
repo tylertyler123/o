@@ -1,7 +1,7 @@
 ## Hi,there! 
 
 
-I'm kaygb, a backend developer. I like everything that Interests me.
+I'm tyler, a backend developer. I like everything that Interests me.
 
 - WebSite: https://www.170601.xyz/
 - Blog: https://www.kezez.com/
@@ -18,6 +18,7 @@ I'm kaygb, a backend developer. I like everything that Interests me.
 
 ![kaygb](https://count.getloli.com/get/@kaygb?theme=rule34)
 
-[![](https://i.loli.net/2020/11/29/tTI94Yde7WmCfSV.png)](https://www.pixiv.net/artworks/85318529)
+[![](https://www.bilibili.com/video/BV1tW4y1z7dt/?spm_id_from=333.999.0.0)]
+
 
 
