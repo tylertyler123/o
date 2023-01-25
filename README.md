@@ -1,11 +1,11 @@
-## Hi,there! 
+## Hi,大家好! 
 
 
-I'm kaygb, a backend developer. I like everything that Interests me.
 
-- WebSite: https://www.170601.xyz/
-- Blog: https://www.kezez.com/
-- QQ Group： [962303102](https://qm.qq.com/cgi-bin/qm/qr?k=-tso4BmPVXPSgqNjPhRCIg4GYZ8Llu_e&jump_from=webapi)
+欢迎来到我的个人网站。
+- 哔哩哔哩: https://space.bilibili.com/1179220018?spm_id_from=333.337.0.0
+- gmail: xzyl4303@gmail.com 
+- outlook: xzyl4303@outlook.com
 
 [![](https://data.jsdelivr.com/v1/package/gh/kaygb/kaygb/badge)](https://www.jsdelivr.com/package/gh/kaygb/kaygb)
 [![](https://img.shields.io/github/license/kaygb/kaygb)](https://github.com/kaygb/kaygb/blob/master/LICENSE)
