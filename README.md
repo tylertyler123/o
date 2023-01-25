@@ -7,8 +7,6 @@
 - gmail: xzyl4303@gmail.com 
 - outlook: xzyl4303@outlook.com
 
-[![](https://www.bilibili.com/video/BV1MB4y1i75U/?spm_id_from=333.999.0.0)](https://www.jsdelivr.com/package/gh/kaygb/kaygb)
-[![](https://img.shields.io/github/license/kaygb/kaygb)](https://github.com/kaygb/kaygb/blob/master/LICENSE)
 
 
 
